@@ -16,6 +16,15 @@ footer{
 	font-variant: small-caps;
 }
 
+[epub|type~="z3998:salutation"] + p{
+	text-indent: 0;
+}
+
+[epub|type~="z3998:postscript"]{
+	text-align: left;
+	text-indent: 0;
+}
+
 [epub|type~="z3998:verse"] p{
 	text-align: left;
 	text-indent: 0;
