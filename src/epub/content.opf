@@ -26,25 +26,26 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
-		<link href="onix.xml" rel="onix-record"/>
+		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">The Confessions of Arsène Lupin</dc:title>
 		<meta property="file-as" refines="#title">Confessions of Arsène Lupin, The</meta>
 		<dc:subject id="subject-1">Adventure and adventurers -- Fiction</dc:subject>
 		<dc:subject id="subject-2">Burglars -- Fiction</dc:subject>
 		<dc:subject id="subject-3">Lupin, Arsène (Fictitious character) -- Fiction</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/28093</meta>
-		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/28093</meta>
-		<meta property="meta-auth" refines="#subject-3">https://www.gutenberg.org/ebooks/28093</meta>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">Unknown</meta>
+		<meta property="authority" refines="#subject-2">LCSH</meta>
+		<meta property="term" refines="#subject-2">sh2009117895</meta>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
+		<meta property="term" refines="#subject-3">sh2010100204</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Shorts</meta>
 		<meta property="se:collection">Arsène Lupin</meta>
 		<dc:description id="description">The gentleman-thief relates stories of his outwitting the Parisian detectives.</dc:description>
-		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;The gentleman-thief Arsène Lupin returns in this set of ten short stories to confess—or perhaps boast about—his crimes to the unnamed narrator. Mostly set around Lupin’s attempts to frustrate Chief-Inspector Ganimard and pocket some cash in the process, they also show off his knack for escaping from seemingly impossible situations, and even playing the role of the master detective.&lt;/p&gt;
 			&lt;p&gt;In the chronology of Arsène Lupin, these tales were published after, but set before, the darker stories of &lt;a href="https://standardebooks.org/ebooks/maurice-leblanc/the-hollow-needle/alexander-teixeira-de-mattos"&gt;&lt;i&gt;The Hollow Needle&lt;/i&gt;&lt;/a&gt; and &lt;a href="https://standardebooks.org/ebooks/maurice-leblanc/813/alexander-teixeira-de-mattos"&gt;&lt;i&gt;813&lt;/i&gt;&lt;/a&gt;. They were serialised in &lt;i&gt;Je Sais Tout&lt;/i&gt; from 1911, and collected into a single publication in 1913.&lt;/p&gt;
 		</meta>
-		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/28093</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/007124077</dc:source>
