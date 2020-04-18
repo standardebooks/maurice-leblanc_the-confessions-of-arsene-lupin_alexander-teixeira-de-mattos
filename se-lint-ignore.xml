@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
+	<file path="chapter-2.xhtml">
+		<ignore>
+			<code>t-033</code>
+			<reason>Matched text is correctly breaking off a hyphenated word.</reason>
+		</ignore>
+	</file>
 	<file path="chapter-10.xhtml">
 		<ignore>
 			<code>t-011</code>
