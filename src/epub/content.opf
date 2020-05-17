@@ -44,7 +44,7 @@
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<dc:description id="description">The gentleman-thief relates stories of his outwitting the Parisian detectives.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;The gentleman-thief Arsène Lupin returns in this set of ten short stories to confess—or perhaps boast about—his crimes to the unnamed narrator. Mostly set around Lupin’s attempts to frustrate Chief-Inspector Ganimard and pocket some cash in the process, they also show off his knack for escaping from seemingly impossible situations, and even playing the role of the master detective.&lt;/p&gt;
+			&lt;p&gt;The gentleman-thief &lt;a href="https://standardebooks.org/collections/arsene-lupin"&gt;Arsène Lupin&lt;/a&gt; returns in this set of ten short stories to confess—or perhaps boast about—his crimes to the unnamed narrator. Mostly set around Lupin’s attempts to frustrate Chief-Inspector Ganimard and pocket some cash in the process, they also show off his knack for escaping from seemingly impossible situations, and even playing the role of the master detective.&lt;/p&gt;
 			&lt;p&gt;In the chronology of Arsène Lupin, these tales were published after, but set before, the darker stories of &lt;a href="https://standardebooks.org/ebooks/maurice-leblanc/the-hollow-needle/alexander-teixeira-de-mattos"&gt;&lt;i&gt;The Hollow Needle&lt;/i&gt;&lt;/a&gt; and &lt;a href="https://standardebooks.org/ebooks/maurice-leblanc/813/alexander-teixeira-de-mattos"&gt;&lt;i&gt;813&lt;/i&gt;&lt;/a&gt;. They were serialised in &lt;i&gt;Je Sais Tout&lt;/i&gt; from 1911, and collected into a single publication in 1913.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
