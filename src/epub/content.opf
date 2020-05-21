@@ -42,6 +42,7 @@
 		<meta property="se:subject">Shorts</meta>
 		<meta property="belongs-to-collection" id="collection-1">Arsène Lupin</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
+		<meta property="group-position" refines="#collection-1">6</meta>
 		<dc:description id="description">The gentleman-thief relates stories of his outwitting the Parisian detectives.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;The gentleman-thief &lt;a href="https://standardebooks.org/collections/arsene-lupin"&gt;Arsène Lupin&lt;/a&gt; returns in this set of ten short stories to confess—or perhaps boast about—his crimes to the unnamed narrator. Mostly set around Lupin’s attempts to frustrate Chief-Inspector Ganimard and pocket some cash in the process, they also show off his knack for escaping from seemingly impossible situations, and even playing the role of the master detective.&lt;/p&gt;
