@@ -52,7 +52,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/28093</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/007124077</dc:source>
-		<meta property="se:word-count">66725</meta>
+		<meta property="se:word-count">65649</meta>
 		<meta property="se:reading-ease.flesch">74.49</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/maurice-leblanc_the-confessions-of-arsene-lupin_alexander-teixeira-de-mattos</meta>
 		<dc:creator id="author">Maurice Leblanc</dc:creator>
